@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">testTask</string>
+
+    <integer name="com_vk_sdk_AppId">6255750</integer>
+
+    <string name="btn_friends">-! Друзья !-</string>
+    <string name="btn_auth">Авторизация</string>
+
+    <string name="text_find">Введите в поле имя и/или фамилию того, кого хотите найти!</string>
+    <string name="text_notFoundUsers">Пользователь не найден. Пожалуйста, проверьте точность введеного имени и/или фамилии!</string>
+    <string name="text_notFoundFriends">Друзья данного пользователя не найдены или запрещены к просмотру!</string>
+
+    <string name="error">Ошибка</string>
+    <string name="error_auth">Вы не авторизованы</string>
+    <string name="error_load">Подождите! Загрузка профиля</string>
+    <string name="error_get">Ошибка доступа к данным</string>
+
+    <string name="toast_avoid">Ничего не было сказано про это :)</string>
+    <string name="toast_noNetwork">Нет подключения к сети</string>
+
+    <string name="tv_name">Имя</string>
+    <string name="tv_surname">Фамилия</string>
+    <string name="tv_patron">Отчество</string>
+    <string name="tv_screenName">Screen Name</string>
+    <string name="tv_gender">Пол</string>
+    <string name="tv_relation">Семейное положение</string>
+    <string name="menu_btn_logout">Выйти</string>
+    <string name="menu_btn_profile">Профиль</string>
+</resources>
