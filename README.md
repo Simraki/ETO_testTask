@@ -3,14 +3,14 @@ Specially for ETO_office
 
 Выполнено тестовое задание для Android, уровень "Вундеркинд"! 
 
-Использованные библиотеки: RecyclerView
-CardView
-CircleImageView
-Retorfit 2 (с адаптером и конвертером)
-Universal-Image-Loader
-RxJava2
-RxAndroid
-RxBinding2 
+Использованные библиотеки: RecyclerView, 
+CardView, 
+CircleImageView, 
+Retorfit 2 (с адаптером и конвертером), 
+Universal-Image-Loader, 
+RxJava2, 
+RxAndroid, 
+RxBinding2
 
 Привет, перед началом проверки, прошу тебя, создай текстовый документ (и не забудь сделать чай!!!) и при проверке записывай все ошибки, какие только сможешь найти. Если не найдёшь, то смотри лучше, они там точно есть :) 
 
