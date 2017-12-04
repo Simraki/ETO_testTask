@@ -11,7 +11,6 @@ object ImageLoaderInst {
 
     private lateinit var inst: ImageLoader
 
-    @Synchronized
     fun set(context: Context) {
         inst = ImageLoader.getInstance()
 
@@ -31,7 +30,6 @@ object ImageLoaderInst {
         inst.init(config)
     }
 
-    @Synchronized
     fun get() = inst
 
 
